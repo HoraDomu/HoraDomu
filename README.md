@@ -6,7 +6,12 @@ What I'm working on / Main Project Focus
 [BlackBox](https://github.com/HoraDomu/BlackBox)** — A lightweight personal EDR for Windows. Logs process, network, CPU, memory, and disk events locally to SQLite. No cloud, no agents. Hopes to make it Open Source one day
 
 Skills
-Python · SQLite · System Internals · Terminal UIs · Git · Java · Go
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
 
 Contact
 
