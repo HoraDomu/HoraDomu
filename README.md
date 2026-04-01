@@ -1,14 +1,11 @@
 Hi, I'm Dominick
 
-CS student based in New Orleans, LA. I love computers and what makes them work. I love when my code really talks to the metal of the computer. I love systems and low level concepts. 
+CS student based in New Orleans, LA. I'm an avid programmer with an affinity for Graphics programming, math and Ray Tracing 
 
 
 Skills
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
