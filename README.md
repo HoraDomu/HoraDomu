@@ -2,6 +2,7 @@ Hi, I'm Dominick
 
 CS student based in New Orleans, LA. I'm an avid programmer with an affinity for Graphics programming, math and Ray Tracing 
 
+I am Currently developing and solo maintaining my project Raven, its ambitious and I hope to make it awesome. 
 
 Contact
 
