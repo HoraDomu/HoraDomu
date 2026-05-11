@@ -1,6 +1,8 @@
 Hi, I'm Dominick
 
-CS student based in New Orleans, LA. I'm an avid programmer with an affinity for math
+CS student based in New Orleans, LA. 
+
+Author of Zenith
 
 Contact
 
