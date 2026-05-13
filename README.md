@@ -10,5 +10,6 @@ Contact
 
 Gmail : dommcpro@gmail.com
 
+Languages I mostly work with:
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
