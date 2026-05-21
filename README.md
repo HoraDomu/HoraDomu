@@ -14,5 +14,3 @@ That gap syntax that feels lightweight, output that is genuinely native is the n
 
 Gmail : dommcpro@gmail.com
 
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
