@@ -12,7 +12,7 @@ Zen is not a systems language either there are no pointers, no manual memory man
 That gap syntax that feels lightweight, output that is genuinely native is the niche Zen occupies. Most languages that feel this clean are interpreted. Most compiled languages feel heavier. Zen is neither.
 
 
-Zen is currently private, I really wanna hammer down the logistics and release a v.01 that genuinely slaps.
+Zen is currently private, I really wanna hammer down the logistics and release a v.06 that genuinely slaps.
 
 
 Gmail : dommcpro@gmail.com
