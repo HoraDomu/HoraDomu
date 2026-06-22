@@ -1,4 +1,4 @@
-Currently Working on my project https://github.com/HoraDomu/Atheon check it out if you wanna contribute!
+Open Source Enjoyer and Contributor 
 
 Gmail : dommcpro@gmail.com
 
