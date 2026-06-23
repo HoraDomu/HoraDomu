@@ -3,5 +3,9 @@ I contribute to OpenSource. I genuinely like coding. I use python because its ea
 if u wanna hmu for anything  
 Gmail : dommcpro@gmail.com
 
-Warframe Player
+
+Funfact:
+I coded a RayTracer from scratch in pure python and thats my profile pic 
+
+I am aWarframe Player
 
