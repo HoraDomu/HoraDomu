@@ -10,7 +10,7 @@ Projects I maintain:
 https://github.com/HoraDomu/Atheon
 
 ---
-Opensource I contribute to:
+Open Source Repos I contribute to:
 ---
 https://github.com/giampaolo/psutil
 https://github.com/moinwiki/moin 
