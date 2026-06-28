@@ -7,5 +7,5 @@ Gmail : dommcpro@gmail.com
 Funfact:
 I coded a RayTracer from scratch in pure python and thats my profile pic 
 
-I am a Warframe Player
+
 
